@@ -2,7 +2,7 @@
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width = 400px></p>
 <h1 align="center">Hi 👋, I'm Dinashi</h1>
 <h3 align="center">Third-Year Data Science Undergraduate | Committed to Unraveling Insights from Data and Advancing Analytical Proficiency</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it21206832&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dinashi-Pabasara&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
