@@ -1,4 +1,4 @@
-# Dinashi
+# Dinashi Pabasara
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width = 400px></p>
 <h1 align="center">Hi 👋, I'm Dinashi</h1>
 <h3 align="center">Third-Year Data Science Undergraduate | Committed to Unraveling Insights from Data and Advancing Analytical Proficiency</h3>
